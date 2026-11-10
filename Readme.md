@@ -61,4 +61,5 @@ Application web Python (Flask) dont la page d'accueil indique si la connexion
    docker network rm tp-net
    ```
 
-## Utiliser l'image publiée sur
+## Utiliser l'image publiée sur GHCR : 
+ghcr.io/bln53z00/evaluation-final-devops:6ec163e43318a9f186ee50b2b4717183ad77168b
